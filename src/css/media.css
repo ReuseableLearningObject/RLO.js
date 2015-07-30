@@ -1,0 +1,13 @@
+@media screen and (max-width: 980px) {
+  .content {
+    width: 100%;
+  }
+  ul.tabs li {
+    float: none;
+    width: 100%;
+  }
+  #navigation {
+    text-align: center;
+    width: 75%;
+  }
+}
